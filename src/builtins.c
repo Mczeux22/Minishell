@@ -6,7 +6,8 @@
 /*   By: Lopapon <lopapon@student.42perpignan.fr    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/23 15:47:06 by Lopapon           #+#    #+#             */
-/*   Updated: 2025/05/23 15:47:07 by Lopapon          ###   ########.fr       */
+/*   Updated: 2025/05/23 16:01:02 by Lopapon          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "minishell.h"
